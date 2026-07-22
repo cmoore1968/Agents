@@ -11,8 +11,9 @@
 7. **Respect locked facts:**
    - Sugar Hill founded 2016 (10th anniversary 2016–2026)
    - Sunday hours: 12–8pm
+   - Monday: closed
    - Location line: "Steps away from Mother Earth Brewery, The Proof and The Herritage"
-   - No Mad Hatter or Sister Scoop references
+   - Mad Hatter and Inside Scoop were affiliated Kinston businesses (shared ownership), now permanently closed — remove references to them from site copy going forward, no new mentions
 
 ## Never
 
