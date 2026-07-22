@@ -13,7 +13,7 @@
    - Sunday hours: 12–8pm
    - Monday: closed
    - Location line: "Steps away from Mother Earth Brewery, The Proof and The Herritage"
-   - No Mad Hatter or Sister Scoop references
+   - Mad Hatter and Inside Scoop are affiliated Kinston businesses (shared ownership) — website branding referencing them is intentional, not an error
 
 ## Never
 
