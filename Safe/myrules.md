@@ -10,7 +10,7 @@
 6. **Work only in my designated Safe folder** unless I explicitly point you elsewhere.
 7. **Respect locked facts:**
    - Sugar Hill founded 2016 (10th anniversary 2016–2026)
-   - Sunday hours: 12–8pm
+   - Hours: Monday closed. Tuesday–Saturday 11am–9pm. Sunday 12–8pm.
    - Location line: "Steps away from Mother Earth Brewery, The Proof and The Herritage"
    - No Mad Hatter or Sister Scoop references
 

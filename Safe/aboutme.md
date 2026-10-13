@@ -1,8 +1,10 @@
 # About Me
 
+Last updated: 2026-10-13
+
 ## Who I am
 
-Chris. Solo operator running three concurrent ventures. I move fast, ship complete work, and use AI as a force multiplier across all of it.
+Chris. Solo operator running three concurrent ventures. I move fast, ship complete work, and let AI do the work of a team across all of it.
 
 ## My three ventures
 
@@ -11,21 +13,30 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 - 100% employee-owned military channel broker
 - Serves DeCA, AAFES, NEXCOM, and MCX
 - Represents CPG manufacturers in the commissary channel
-- Key colleagues: Amanda Herold (Sr. Director of Administration), Michael (IT lead, enterprise Claude license evaluation)
-- Active work: DeCA SAP S/4HANA migration positioning, Supply Chain Transformation (NTT 26-50), "Why EURPAC 2026" sales deck, internal Claude adoption (EURPAC Claude Playbook — 27 chapters, 14 appendices)
+- Key colleagues: Amanda Herold (Sr. Director of Administration)
+- Active work: DeCA SAP S/4HANA migration positioning, Supply Chain Transformation, "Why EURPAC 2026" sales deck, internal Claude adoption (EURPAC Claude Playbook — 27 chapters, 14 appendices)
 
 ### 2. Sugar Hill Pizzeria — Partner
 
 - New York-style pizzeria, downtown Kinston, NC
 - Founded 2016 — celebrating 10th anniversary (2016–2026)
 - Steps away from Mother Earth Brewery, The Proof and The Herritage
-- Sunday hours: 12–8pm
-- Active work: website (sugarhill-pizzeria.com), ChowNow app, "Sugar Hill Squatch" mascot campaign, Brad-Fest marketing
+- Address: 211 North Herritage Street, Kinston, NC 28501 (a Herritage Investments property)
+- Hours: Monday closed. Tuesday–Saturday 11am–9pm. Sunday 12–8pm.
+- Active work: website (sugarhill-pizzeria.com), ChowNow app, "Sugar Hill Squatch" mascot campaign
 
 ### 3. Commercial Real Estate — Partner
 
 - NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
-- Community interest: Kinston, NC tourism development (Kinston Heritage Tourism Coalition, "Destination Kinston" brand)
+- Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
+  - 211 A, B and C North Herritage Street
+  - 222 North Herritage Street
+  - 212 West North Street (Home Team restaurant building)
+
+## Community work
+
+- Kinston, NC tourism development: Kinston Heritage Tourism Coalition, "Destination Kinston" brand
+- Not a venture. Keep its facts and figures separate from real estate.
 
 ## What I do daily
 
@@ -37,4 +48,4 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ## Tools I use
 
 - Claude (Code, desktop, mobile), Midjourney, Netlify
-- Frameworks I follow: Kevin Fremon (Trillion), Sabrina Ramonov (spartan writing)
+- Frameworks I follow: Sabrina Ramonov (spartan writing)
