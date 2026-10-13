@@ -1,8 +1,10 @@
 # About Me
 
+Last updated: 2026-10-13
+
 ## Who I am
 
-Chris. Solo operator running three concurrent ventures. I move fast, ship complete work, and use AI as a force multiplier across all of it.
+Chris. Solo operator running three concurrent ventures. I move fast, ship complete work, and let AI do the work of a team across all of it.
 
 ## My three ventures
 
@@ -25,7 +27,11 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ### 3. Commercial Real Estate — Partner
 
 - NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
-- Community interest: Kinston, NC tourism development (Kinston Heritage Tourism Coalition, "Destination Kinston" brand)
+
+## Community work
+
+- Kinston, NC tourism development: Kinston Heritage Tourism Coalition, "Destination Kinston" brand
+- Not a venture. Keep its facts and figures separate from real estate.
 
 ## What I do daily
 
