@@ -29,7 +29,7 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 
 - Partner: Jackie Elmore of Kinston
 - NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
-- Active work: none. All properties are tenanted.
+- Active work: none. We are landlords. Tenants occupy every building.
 - Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
   - 211 A, B and C North Herritage Street
   - 222 North Herritage Street
@@ -38,13 +38,13 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ## Community work
 
 - Kinston, NC tourism development: Kinston Heritage Tourism Coalition, "Destination Kinston" brand
-- Not a venture. Keep its facts and figures separate from real estate.
+- Not a venture. The coalition is a separate entity, not associated with Herritage Investments. Keep its facts and figures separate from real estate.
 
 ## What I do daily
 
 - Business development outreach and deck building for EURPAC
 - Marketing, digital assets, and operations support for Sugar Hill
-- Deal analysis and due diligence for real estate
+- Landlord duties for Herritage Investments properties
 - Building AI tools, training playbooks, and workflow automations (Claude Code, subagents, slash commands)
 
 ## Tools I use
