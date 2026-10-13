@@ -21,7 +21,7 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 - New York-style pizzeria, downtown Kinston, NC
 - Founded 2016 — celebrating 10th anniversary (2016–2026)
 - Steps away from Mother Earth Brewery, The Proof and The Herritage
-- Address: 211 North Herritage Street, Kinston, NC 28501 (a Herritage Investments property)
+- Address: 211-A North Herritage Street, Kinston, NC 28501 (a Herritage Investments property)
 - Hours: Monday closed. Tuesday–Saturday 11am–9pm. Sunday 12–8pm.
 - Active work: website (sugarhill-pizzeria.com), ChowNow app, "Sugar Hill Squatch" mascot campaign
 
