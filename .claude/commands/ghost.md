@@ -30,7 +30,7 @@ Read `Safe/aboutme.md`, `Safe/myvoice.md`, and `Safe/myrules.md`. Match the voic
 
 ## Hard limits
 
-- Sugar Hill locked facts: founded 2016, 10th anniversary 2016–2026, Sunday hours 12–8pm, location line "Steps away from Mother Earth Brewery, The Proof and The Herritage." No Mad Hatter or Sister Scoop references.
+- Sugar Hill locked facts: founded 2016, 10th anniversary 2016–2026, hours Monday closed, Tuesday–Saturday 11am–9pm, Sunday 12–8pm, location line "Steps away from Mother Earth Brewery, The Proof and The Herritage." No Mad Hatter or Sister Scoop references.
 - No invented testimonials, reviews, quotes, dates, or statistics. Leave out any claim you cannot verify from the sources given.
 - No placeholders or TODOs. Ship complete copy.
 - Draft only. Never send, post, or publish.
