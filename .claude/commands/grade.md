@@ -32,11 +32,11 @@ Match this shape:
 
 > **Grade: B-**
 >
-> The AAFES and NEX figures conflict. That kills credibility. Everything else holds.
+> The AAFES and NEXCOM figures conflict. That kills credibility. Everything else holds.
 >
 > **Fixes to reach A:**
 >
-> 1. Reconcile AAFES ($X) and NEX ($Y) on p.3. Name the source of truth.
+> 1. Reconcile AAFES ($X) and NEXCOM ($Y) on p.3. Name the source of truth.
 > 2. Cut the second paragraph. It repeats the first.
 
 - Grade on line one. Then a two-to-three-sentence verdict.
