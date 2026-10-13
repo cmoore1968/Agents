@@ -1,0 +1,4 @@
+{
+  // Vendored ECC files keep upstream formatting. Lint only our own files.
+  "ignores": [".claude/skills/**", ".claude/agents/**"]
+}
