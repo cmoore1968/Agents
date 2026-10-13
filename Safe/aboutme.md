@@ -28,7 +28,7 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ### 3. Commercial Real Estate — Owner, Herritage Investments
 
 - Partner: Jackie Elmore of Kinston
-- NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
+- NC-focused. Skills: hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
 - Active work: none. We are landlords. Tenants occupy every building.
 - Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
   - 211 A, B and C North Herritage Street
