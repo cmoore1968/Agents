@@ -27,6 +27,10 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ### 3. Commercial Real Estate — Partner
 
 - NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
+- Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
+  - 211 A, B and C North Herritage Street
+  - 222 North Herritage Street
+  - 212 West North Street (Home Team restaurant building)
 
 ## Community work
 
