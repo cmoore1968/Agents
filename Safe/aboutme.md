@@ -25,9 +25,11 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 - Hours: Monday closed. Tuesday–Saturday 11am–9pm. Sunday 12–8pm.
 - Active work: website (sugarhill-pizzeria.com), ChowNow app, "Sugar Hill Squatch" mascot campaign
 
-### 3. Commercial Real Estate — Partner
+### 3. Commercial Real Estate — Owner, Herritage Investments
 
+- Partner: Jackie Elmore of Kinston
 - NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
+- Active work: none. All properties are tenanted.
 - Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
   - 211 A, B and C North Herritage Street
   - 222 North Herritage Street
