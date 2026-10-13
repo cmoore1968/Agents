@@ -21,13 +21,15 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 - New York-style pizzeria, downtown Kinston, NC
 - Founded 2016 — celebrating 10th anniversary (2016–2026)
 - Steps away from Mother Earth Brewery, The Proof and The Herritage
-- Address: 211 North Herritage Street, Kinston, NC 28501 (a Herritage Investments property)
+- Address: 211-A North Herritage Street, Kinston, NC 28501 (a Herritage Investments property)
 - Hours: Monday closed. Tuesday–Saturday 11am–9pm. Sunday 12–8pm.
 - Active work: website (sugarhill-pizzeria.com), ChowNow app, "Sugar Hill Squatch" mascot campaign
 
-### 3. Commercial Real Estate — Partner
+### 3. Commercial Real Estate — Owner, Herritage Investments
 
-- NC-focused, including hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
+- Partner: Jackie Elmore of Kinston
+- NC-focused. Skills: hotel acquisition analysis (RevPAR, NOI, DSCR, IRR, PIP, STR reports, Phase I Environmental)
+- Active work: none. We are landlords. Tenants occupy every building.
 - Commercial properties owned by Herritage Investments, all in Kinston, NC 28501:
   - 211 A, B and C North Herritage Street
   - 222 North Herritage Street
@@ -36,13 +38,13 @@ Chris. Solo operator running three concurrent ventures. I move fast, ship comple
 ## Community work
 
 - Kinston, NC tourism development: Kinston Heritage Tourism Coalition, "Destination Kinston" brand
-- Not a venture. Keep its facts and figures separate from real estate.
+- Not a venture. The coalition is a separate entity, not associated with Herritage Investments. Keep its facts and figures separate from real estate.
 
 ## What I do daily
 
 - Business development outreach and deck building for EURPAC
 - Marketing, digital assets, and operations support for Sugar Hill
-- Deal analysis and due diligence for real estate
+- Landlord duties for Herritage Investments properties
 - Building AI tools, training playbooks, and workflow automations (Claude Code, subagents, slash commands)
 
 ## Tools I use
